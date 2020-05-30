@@ -1,0 +1,5 @@
+Feature:
+  Scenario:
+    Given user is on the sony website and searches play station
+    When user is on the play station page
+    Then  user should be abe to see all relevant products
